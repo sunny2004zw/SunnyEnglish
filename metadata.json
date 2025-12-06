@@ -1,0 +1,7 @@
+{
+  "name": "Toon-Reader",
+  "description": "A fun, cartoon-styled English learning tool that reformats text/images with sentence-by-sentence translations, idiom explanations, and vocabulary annotations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
